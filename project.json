@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "只是将A G的Periodic Table进行了简单汉化(有些词可能不准)，如果原作者觉得侵权请联系我，我会尽快删除。如果有错的可以留言我看到了会改。\r\nJust a simple Chineseization of A G's Periodic Table (some words may not be allowed), and if the original author feels infringing, please contact me, I will delete it as soon as possible\r\n\r\n中文版动态元素周期表Originally published in English https://steamcommunity.com/sharedfiles/filedetails/?id=1828698678,I did Chinese translation.I don't know how to use the response function of the creative workshop.So I can't reply to you.\r\n这个壁纸原作是https://steamcommunity.com/sharedfiles/filedetails/?id=1828698678，我只是汉化了，我不知道怎么用创意工坊回复，所以我回复不了你们。",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.png",
+	"tags" : [ "Technology" ],
+	"title" : "中文版动态元素周期表",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : "1841809712"
+}
